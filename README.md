@@ -9,7 +9,7 @@ A Full Stack Software Engineer based in Dundalk, Ireland, with over 8 years of p
 - ⚙️ Experienced in developing and integrating **RESTful APIs**, setting up **ETL pipelines**, and managing **MySQL databases**
 - 🐳 Skilled in containerized environments using **Docker** and cloud services like **AWS Lambda & SQS**
 - 🧠 Passionate about clean code, system optimization, and backend automation
-- 🧑‍🏫 Mentor to junior developers; advocate for code quality and Agile practices
+- 🧑‍🏫 Mentor to junior developers; committed to code quality and Agile practices
 
 ---
 
