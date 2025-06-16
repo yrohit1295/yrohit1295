@@ -48,7 +48,7 @@ A Full Stack Software Engineer based in Dundalk, Ireland, with over 8 years of p
 ## 🏢 Work Highlights
 
 **Provident CRM (Ireland)**  
-*Senior Developer | Jul 2022 – Nov 2024*  
+*Developer | Jul 2022 – Nov 2024*  
 - Developed customized CRM modules and REST APIs using PHP and JavaScript  
 - Managed deployments across QA, UAT, and production using Docker
 
