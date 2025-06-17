@@ -58,7 +58,7 @@ A Full Stack Software Engineer based in Dundalk, Ireland, with over 8 years of p
 - Focused on data reliability and Agile Kanban delivery
 
 **QA InfoTech (India)**  
-*Senior Software Engineer → Software Engineer | Jun 2016 – Jan 2021*  
+* Software Engineer → Senior Software Engineer | Jun 2016 – Jan 2021*  
 - Built ETL workflows using Python, Flask, and Laravel  
 - Implemented AWS-based automation with Lambda and SQS  
 - Developed user-facing features with React.js and fixed frontend bugs
