@@ -95,6 +95,7 @@ A Full Stack Software Engineer based in Dundalk, Ireland, with over 8 years of p
   <a href="https://www.linkedin.com/in/yrohit1295" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" style="vertical-align:middle;"></a>
   <a href="mailto:yrohit12@outlook.com" target="_blank"><img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" alt="Outlook Email" width="40" height="40" style="vertical-align:middle;"></a>
   <a href="https://www.google.com/maps/place/Dundalk,+Ireland" target="_blank"><img src="https://img.icons8.com/color/48/000000/marker.png" alt="Location" width="40" height="40" style="vertical-align:middle;"></a>
+  <a href="https://rohit-yadav-portfolio.vercel.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio Website" width="40" height="40" style="vertical-align:middle;"></a>
 </p>
 
 ---
