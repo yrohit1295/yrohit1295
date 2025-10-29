@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Rohit Yadav
 
-A Full Stack Software Engineer based in Dundalk, Ireland, with over 8 years of professional experience delivering scalable SaaS products, building secure APIs, and engineering data-driven backend systems.
+A Senior Software Engineer based in Dundalk, Ireland, with over 8 years of professional experience delivering scalable SaaS products, building secure APIs, and engineering data-driven backend systems powered by AI and cloud-native technologies.
 
 
 ## 💼 About Me
 
-- 🔧 Backend-focused developer with deep expertise in **PHP (Laravel)**, **Python (Flask)**, and **JavaScript**
-- ⚙️ Experienced in developing and integrating **RESTful APIs**, setting up **ETL pipelines**, and managing **MySQL databases**
+- 🔧 Senior Software Engineer with strong expertise in **PHP (Laravel)**, **Python (FastAPI, Flask)**, and **JavaScript (React.js, Typescript)**
+- ⚙️ Experienced in developing and integrating **RESTful APIs**, setting up **ETL pipelines**, and managing **SQL databases**
 - 🐳 Skilled in containerized environments using **Docker** and cloud services like **AWS Lambda & SQS**
+- 🤖 Building AI agents and automation systems to enhance product intelligence and streamline backend workflows
 - 🧠 Passionate about clean code, system optimization, and backend automation
 - 🧑‍🏫 Mentor to junior developers; committed to code quality and Agile practices
 
@@ -22,8 +23,9 @@ A Full Stack Software Engineer based in Dundalk, Ireland, with over 8 years of p
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Scrapy](https://img.shields.io/badge/Scrapy-EE6B2F?style=for-the-badge&logo=scrapy&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -36,6 +38,7 @@ A Full Stack Software Engineer based in Dundalk, Ireland, with over 8 years of p
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Others
@@ -46,6 +49,11 @@ A Full Stack Software Engineer based in Dundalk, Ireland, with over 8 years of p
 ---
 
 ## 🏢 Work Highlights
+
+**Zenbundle (Ireland)**  
+*Senior Software Engineer | Aug 2025 – Present*  
+- Design and implement new features for Zenbundle’s SaaS platform using Python (FastAPI), React.js, and TypeScript, focusing on scalability, performance, and modern architecture.  
+- Build and deploy AI-powered agents, RESTful APIs, and cloud-native microservices leveraging AWS, Docker, and Kubernetes to deliver secure, data-driven solutions.  
 
 **Provident CRM (Ireland)**  
 *Developer | Jul 2022 – Nov 2024*  
