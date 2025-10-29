@@ -8,7 +8,7 @@ A Senior Software Engineer based in Dundalk, Ireland, with over 8 years of profe
 - 🔧 Senior Software Engineer with strong expertise in **PHP (Laravel)**, **Python (FastAPI, Flask)**, and **JavaScript (React.js, Typescript)**
 - ⚙️ Experienced in developing and integrating **RESTful APIs**, setting up **ETL pipelines**, and managing **SQL databases**
 - 🐳 Skilled in containerized environments using **Docker** and cloud services like **AWS Lambda & SQS**
-- 🤖 Building AI agents and automation systems to enhance product intelligence and streamline backend workflows
+- 🤖 Building **AI agents** and automation systems to enhance product intelligence and streamline backend workflows
 - 🧠 Passionate about clean code, system optimization, and backend automation
 - 🧑‍🏫 Mentor to junior developers; committed to code quality and Agile practices
 
